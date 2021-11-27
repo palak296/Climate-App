@@ -7,5 +7,8 @@ I created a weather forecasting app. So, this app concept basically is a common 
 
 
 
-https://user-images.githubusercontent.com/74818938/143678621-cdb1822f-e43d-4c78-b0bc-f0a9b14b5b71.mp4
+
+https://user-images.githubusercontent.com/74818938/143678640-b4732c8d-1957-4378-aa48-58d682ec7ee8.mp4
+
+
 
